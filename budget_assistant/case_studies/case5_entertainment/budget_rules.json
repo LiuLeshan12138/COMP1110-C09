@@ -1,3 +1,0 @@
-[
-  {"rule_id": 1, "category": "Entertainment", "period": "monthly", "threshold": 20.0, "alert_type": "percentage"}
-]

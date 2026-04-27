@@ -1,4 +1,0 @@
-[
-  {"rule_id": 1, "category": "Transport", "period": "monthly", "threshold": 500.0, "alert_type": "cap"},
-  {"rule_id": 2, "category": "Transport", "period": "monthly", "threshold": 30.0, "alert_type": "percentage"}
-]

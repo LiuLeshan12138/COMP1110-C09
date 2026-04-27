@@ -1,4 +1,0 @@
-[
-  {"rule_id": 1, "category": "Subscriptions", "period": "monthly", "threshold": 250.0, "alert_type": "cap"},
-  {"rule_id": 2, "category": "Subscriptions", "period": "monthly", "threshold": 15.0, "alert_type": "percentage"}
-]

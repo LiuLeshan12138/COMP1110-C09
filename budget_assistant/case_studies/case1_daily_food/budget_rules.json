@@ -1,3 +1,0 @@
-[
-  {"rule_id": 1, "category": "Food", "period": "daily", "threshold": 50.0, "alert_type": "cap"}
-]

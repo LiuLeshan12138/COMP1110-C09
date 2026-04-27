@@ -1,7 +1,0 @@
-[
-  {"txn_id": 1, "date": "2025-04-20", "amount": 0.00, "category": "Food", "description": "Free meal voucher used", "notes": ""},
-  {"txn_id": 2, "date": "2025-04-21", "amount": 0.00, "category": "Transport", "description": "Walked to campus", "notes": ""},
-  {"txn_id": 3, "date": "2025-04-22", "amount": 0.00, "category": "Entertainment", "description": "Free campus concert", "notes": ""},
-  {"txn_id": 4, "date": "2025-04-23", "amount": 0.00, "category": "Shopping", "description": "No spending day", "notes": ""},
-  {"txn_id": 5, "date": "2025-04-24", "amount": 0.00, "category": "Food", "description": "Meal prep from home", "notes": ""}
-]
