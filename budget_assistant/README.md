@@ -1,6 +1,6 @@
 # COMP1110 -- Personal Budget and Spending Assistant
 
-Group C09 | Topic A | Tuesday 12:00 -- 12:50
+Group C09 | Topic A
 
 ---
 
